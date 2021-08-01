@@ -21,4 +21,4 @@ jobs:
     - name: Format code with Python black
       run: |
         make format
-© 2021 GitHub, Inc.
+
