@@ -1,2 +1,4 @@
-# aws-scaffold
-Continous Integration test in AWS Cloud9
+# AWS cloud9 continous integration
+
+
+Continous Integration test in AWS Cloud9 
